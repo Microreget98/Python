@@ -33,5 +33,3 @@ def Binaria():
     
 
 Binaria()
-
-"Hola mundo"
