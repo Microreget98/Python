@@ -33,4 +33,3 @@ def Binaria():
     
 
 Binaria()
-#caca
