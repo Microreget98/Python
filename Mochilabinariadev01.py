@@ -33,3 +33,5 @@ def Binaria():
     
 
 Binaria()
+
+#cambios a hacer agregar arreglos dentro del arreglo principal
