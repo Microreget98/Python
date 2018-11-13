@@ -1,0 +1,42 @@
+{
+	"America": [{
+		"Apertura 2011": [{
+			"Win local": 3,
+			"Win vistit": 10,
+			"Loss local": 5,
+			"Loss visit": 10
+		}],
+		"Clausura 2012": [{
+			"Win local": 3,
+			"Win vistit": 10,
+			"Loss local": 5,
+			"Loss visit": 10
+		}],
+		"Apertura 2012": [{
+			"Win local": 3,
+			"Win vistit": 10,
+			"Loss local": 5,
+			"Loss visit": 10
+		}]
+	}],
+	"Rayados": [{
+		"Apertura 2011": [{
+			"Win local": 5,
+			"Win vistit": 4,
+			"Loss local": 4,
+			"Loss visit": 3
+		}],
+		"Clausura 2012": [{
+			"Win local": 3,
+			"Win vistit": 10,
+			"Loss local": 4,
+			"Loss visit": 8
+		}],
+		"Apertura 2012": [{
+			"Win local": 5,
+			"Win vistit": 6,
+			"Loss local": 3,
+			"Loss visit": 1
+		}]
+	}]
+}
